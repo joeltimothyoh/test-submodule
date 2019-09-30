@@ -1,0 +1,3 @@
+[submodule "submodules/test-azureci"]
+	path = submodules/test-azureci
+	url = https://github.com/joeltimothyoh/test-azureci.git
