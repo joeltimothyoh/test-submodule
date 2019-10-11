@@ -1,3 +1,6 @@
 [submodule "submodules/test-azureci"]
 	path = submodules/test-azureci
 	url = https://github.com/joeltimothyoh/test-azureci.git
+[submodule "submodules/PSRepositoryReleaseManager"]
+	path = submodules/PSRepositoryReleaseManager
+	url = https://github.com/theohbrothers/PSRepositoryReleaseManager.git
